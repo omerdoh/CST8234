@@ -59,7 +59,7 @@ int main () {
 			printf("\n                     ROLL THE DICE [ENTER]\n\n");
 			playGame();
 		}
-		printf("\nContinue? (y/n)\n");
+		printf("\nAnother game? (y/n)\n");
 
 		scanf("  %c", &decide);
 	}
